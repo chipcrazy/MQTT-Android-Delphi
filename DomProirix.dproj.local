@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/07 18:11:06.000.824,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/08 09:57:56.000.185,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/11 10:48:26.000.040,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/13 10:18:10.000.076,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/11 18:48:58.000.175,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/30 09:09:54.000.377,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/30 09:30:49.000.092,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/20 15:48:05.000.411,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/19 09:48:08.000.293,=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/19 11:53:38.000.852,C:\Sistemas\TSABolivia\PruebaDomotica\UPrinc.pas=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/19 11:53:38.000.852,C:\Sistemas\TSABolivia\PruebaDomotica\UPrinc.fmx=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/07/19 11:53:50.000.791,C:\Sistemas\TSABolivia\PruebaDomotica\DomProirix.dproj=C:\Users\chipcrazy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/12 10:17:32.000.631,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\foco2_on.png</Transaction>
+    <Transaction>2019/08/12 10:17:32.000.554,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\foco2_off.png</Transaction>
+    <Transaction>2019/08/12 11:30:23.000.721,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\motion1_off.png</Transaction>
+    <Transaction>2019/08/12 11:30:52.000.042,C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\foco2_off.png=</Transaction>
+    <Transaction>2019/08/12 11:30:52.000.657,C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\foco2_on.png=</Transaction>
+    <Transaction>2019/08/12 11:30:52.000.778,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\motion1_on.png</Transaction>
+    <Transaction>2019/08/15 16:51:28.000.175,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\door1_off.png</Transaction>
+    <Transaction>2019/08/15 16:51:28.000.274,=C:\Sistemas\TSABolivia\PruebaDomotica\Domotica\door1_on.png</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Pruebas"/>
+	</ActiveMobileDevice>
+</BorlandProject>
