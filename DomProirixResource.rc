@@ -1,0 +1,4 @@
+motion_off RCDATA "Domotica\\motion1_off.png"
+motion_on RCDATA "Domotica\\motion1_on.png"
+door_off RCDATA "Domotica\\door1_off.png"
+door_on RCDATA "Domotica\\door1_on.png"
